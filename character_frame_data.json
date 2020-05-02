@@ -1,0 +1,3900 @@
+{
+  "Gran": [
+    {
+      "c.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "5",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "10",
+        "On Block": "0",
+        "On Hit": "+4",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.H": {
+        "Damage": "1200",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "4",
+        "Recovery": "18",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 1": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 2": {
+        "Damage": "280",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-5",
+        "On Hit": "-1",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "13",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "3",
+        "Recovery": "18",
+        "On Block": "-6",
+        "On Hit": "-2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.H": {
+        "Damage": "1000",
+        "Guard": "Mid",
+        "Startup": "10",
+        "Active": "5",
+        "Recovery": "20",
+        "On Block": "-9",
+        "On Hit": "-5",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2L": {
+        "Damage": "400",
+        "Guard": "Low",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "7",
+        "Active": "5",
+        "Recovery": "9",
+        "On Block": "+1",
+        "On Hit": "+5",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2H": {
+        "Damage": "1000",
+        "Guard": "Mid",
+        "Startup": "9",
+        "Active": "6",
+        "Recovery": "24",
+        "On Block": "-13",
+        "On Hit": "-9",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2U": {
+        "Damage": "700",
+        "Guard": "Low",
+        "Startup": "7",
+        "Active": "6",
+        "Recovery": "21",
+        "On Block": "-12",
+        "On Hit": "HKD",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.L": {
+        "Damage": "400",
+        "Guard": "High/Air",
+        "Startup": "5",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.M": {
+        "Damage": "550",
+        "Guard": "High/Air",
+        "Startup": "6",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.H": {
+        "Damage": "800",
+        "Guard": "High/Air",
+        "Startup": "7",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.U": {
+        "Damage": "700",
+        "Guard": "High/Air",
+        "Startup": "12",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    }
+  ],
+  "Katalina": [
+    {
+      "c.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "5",
+        "Active": "4",
+        "Recovery": "5",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "13",
+        "On Block": "-1",
+        "On Hit": "+3",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.H": {
+        "Damage": "1200",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "5",
+        "Recovery": "22",
+        "On Block": "-8",
+        "On Hit": "-4",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 1": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 2": {
+        "Damage": "280",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-4",
+        "On Hit": "0",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "6",
+        "Recovery": "12",
+        "On Block": "-5",
+        "On Hit": "-1",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "9",
+        "Active": "4",
+        "Recovery": "17",
+        "On Block": "-6",
+        "On Hit": "-2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.H": {
+        "Damage": "1000",
+        "Guard": "Mid",
+        "Startup": "9",
+        "Active": "4",
+        "Recovery": "23",
+        "On Block": "-10",
+        "On Hit": "-6",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2L": {
+        "Damage": "400",
+        "Guard": "Low",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "7",
+        "Active": "5",
+        "Recovery": "15",
+        "On Block": "-5",
+        "On Hit": "-1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2H": {
+        "Damage": "1000",
+        "Guard": "Mid",
+        "Startup": "9",
+        "Active": "6",
+        "Recovery": "20",
+        "On Block": "-9",
+        "On Hit": "-5",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2U": {
+        "Damage": "700",
+        "Guard": "Low",
+        "Startup": "8",
+        "Active": "5",
+        "Recovery": "21",
+        "On Block": "-11",
+        "On Hit": "HKD",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.L": {
+        "Damage": "400",
+        "Guard": "High/Air",
+        "Startup": "5",
+        "Active": "Until Landing",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.M": {
+        "Damage": "600",
+        "Guard": "High/Air",
+        "Startup": "6",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.H": {
+        "Damage": "800",
+        "Guard": "High/Air",
+        "Startup": "7",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.U": {
+        "Damage": "700",
+        "Guard": "High/Air",
+        "Startup": "13",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    }
+  ],
+  "Charlotta": [
+    {
+      "c.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "5",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "16",
+        "On Block": "-4",
+        "On Hit": "0",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.H": {
+        "Damage": "1200",
+        "Guard": "Mid",
+        "Startup": "9",
+        "Active": "6",
+        "Recovery": "15",
+        "On Block": "-2",
+        "On Hit": "+2",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 1": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 2": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-4",
+        "On Hit": "0",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "15",
+        "On Block": "-5",
+        "On Hit": "-1",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "3",
+        "Recovery": "18",
+        "On Block": "-6",
+        "On Hit": "-2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.H": {
+        "Damage": "1300",
+        "Guard": "Mid",
+        "Startup": "24",
+        "Active": "6",
+        "Recovery": "18",
+        "On Block": "-5",
+        "On Hit": "-1",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2L": {
+        "Damage": "400",
+        "Guard": "Low",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "9",
+        "Active": "5",
+        "Recovery": "15",
+        "On Block": "-2",
+        "On Hit": "+2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2H": {
+        "Damage": "1000 [1200]",
+        "Guard": "Mid",
+        "Startup": "14 [27]",
+        "Active": "6",
+        "Recovery": "24",
+        "On Block": "-13 [-11]",
+        "On Hit": "-9 [-7]",
+        "Attribute": "zzz",
+        "Level": "3/4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2U": {
+        "Damage": "700",
+        "Guard": "Low",
+        "Startup": "9",
+        "Active": "6",
+        "Recovery": "18",
+        "On Block": "-9",
+        "On Hit": "HKD",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.L": {
+        "Damage": "400",
+        "Guard": "High/Air",
+        "Startup": "5",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.M": {
+        "Damage": "550",
+        "Guard": "High/Air",
+        "Startup": "6",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.H": {
+        "Damage": "800",
+        "Guard": "High/Air",
+        "Startup": "8",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.U": {
+        "Damage": "300, 700",
+        "Guard": "High/Air",
+        "Startup": "6",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    }
+  ],
+  "Lancelot": [
+    {
+      "c.L": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "5",
+        "Active": "2",
+        "Recovery": "7",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.M": {
+        "Damage": "650",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "1",
+        "Recovery": "14",
+        "On Block": "0",
+        "On Hit": "+4",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.H": {
+        "Damage": "600, 400",
+        "Guard": "Mid",
+        "Startup": "7",
+        "Active": "9",
+        "Recovery": "18",
+        "On Block": "-2",
+        "On Hit": "+2",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 1": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 2": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-4",
+        "On Hit": "0",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.L": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "5",
+        "Active": "2",
+        "Recovery": "7",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.M": {
+        "Damage": "600",
+        "Guard": "Mid",
+        "Startup": "7",
+        "Active": "3",
+        "Recovery": "17",
+        "On Block": "-5",
+        "On Hit": "-1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.H": {
+        "Damage": "900",
+        "Guard": "Mid",
+        "Startup": "10",
+        "Active": "3",
+        "Recovery": "22",
+        "On Block": "-8",
+        "On Hit": "-4",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2L": {
+        "Damage": "350",
+        "Guard": "Low",
+        "Startup": "6",
+        "Active": "1",
+        "Recovery": "8",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2M": {
+        "Damage": "600",
+        "Guard": "Mid",
+        "Startup": "7",
+        "Active": "2",
+        "Recovery": "15",
+        "On Block": "-2",
+        "On Hit": "+2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2H": {
+        "Damage": "800",
+        "Guard": "Mid",
+        "Startup": "10",
+        "Active": "5",
+        "Recovery": "24",
+        "On Block": "-12",
+        "On Hit": "-8",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2U": {
+        "Damage": "700",
+        "Guard": "Low",
+        "Startup": "8",
+        "Active": "15",
+        "Recovery": "15",
+        "On Block": "-15",
+        "On Hit": "HKD",
+        "Attribute": "zzz",
+        "Level": "2 [1]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.L": {
+        "Damage": "400",
+        "Guard": "High/Air",
+        "Startup": "5",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.M": {
+        "Damage": "550",
+        "Guard": "High/Air",
+        "Startup": "7",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.H": {
+        "Damage": "400*2",
+        "Guard": "High/Air",
+        "Startup": "10",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.U": {
+        "Damage": "zzz",
+        "Guard": "zzz",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "zzz",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    }
+  ],
+  "Percival": [
+    {
+      "c.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "5",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "7",
+        "Active": "3",
+        "Recovery": "12",
+        "On Block": "0",
+        "On Hit": "+4",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.H": {
+        "Damage": "1200",
+        "Guard": "Mid",
+        "Startup": "10",
+        "Active": "6",
+        "Recovery": "15",
+        "On Block": "-2",
+        "On Hit": "+2",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 1": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 2": {
+        "Damage": "280",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-4",
+        "On Hit": "0",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "15",
+        "On Block": "-5",
+        "On Hit": "-1",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "5",
+        "Recovery": "17",
+        "On Block": "-7",
+        "On Hit": "-3",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.H": {
+        "Damage": "1100",
+        "Guard": "Mid",
+        "Startup": "12",
+        "Active": "6",
+        "Recovery": "26",
+        "On Block": "-15",
+        "On Hit": "-11",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2L": {
+        "Damage": "400",
+        "Guard": "Low",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "7",
+        "Active": "5",
+        "Recovery": "12",
+        "On Block": "-2",
+        "On Hit": "+2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2H": {
+        "Damage": "1000",
+        "Guard": "Mid",
+        "Startup": "11",
+        "Active": "5",
+        "Recovery": "24",
+        "On Block": "-12",
+        "On Hit": "-8",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2U": {
+        "Damage": "700",
+        "Guard": "Low",
+        "Startup": "7",
+        "Active": "6",
+        "Recovery": "19",
+        "On Block": "-10",
+        "On Hit": "HKD",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.L": {
+        "Damage": "400",
+        "Guard": "High/Air",
+        "Startup": "5",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.M": {
+        "Damage": "550",
+        "Guard": "High/Air",
+        "Startup": "7",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.H": {
+        "Damage": "800",
+        "Guard": "High/Air",
+        "Startup": "10",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.U": {
+        "Damage": "800",
+        "Guard": "All",
+        "Startup": "22",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2 [1]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    }
+  ],
+  "Ladiva": [
+    {
+      "c.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "4",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "7",
+        "Active": "1",
+        "Recovery": "12",
+        "On Block": "0",
+        "On Hit": "+4",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.H": {
+        "Damage": "1200",
+        "Guard": "Mid",
+        "Startup": "12",
+        "Active": "6",
+        "Recovery": "13",
+        "On Block": "-2",
+        "On Hit": "+2",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 1": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 2": {
+        "Damage": "320",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-4",
+        "On Hit": "0",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "8",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "3",
+        "Recovery": "11",
+        "On Block": "-6",
+        "On Hit": "-2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.H": {
+        "Damage": "1100",
+        "Guard": "Mid",
+        "Startup": "13",
+        "Active": "6",
+        "Recovery": "19",
+        "On Block": "-8",
+        "On Hit": "-4",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "9",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2M": {
+        "Damage": "700",
+        "Guard": "Low",
+        "Startup": "8",
+        "Active": "5",
+        "Recovery": "13",
+        "On Block": "-2",
+        "On Hit": "+2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2H": {
+        "Damage": "500+500",
+        "Guard": "Mid",
+        "Startup": "11",
+        "Active": "4",
+        "Recovery": "15",
+        "On Block": "-8",
+        "On Hit": "-4",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2U": {
+        "Damage": "900",
+        "Guard": "Low",
+        "Startup": "7",
+        "Active": "6",
+        "Recovery": "28",
+        "On Block": "-19",
+        "On Hit": "HKD",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.L": {
+        "Damage": "400",
+        "Guard": "High/Air",
+        "Startup": "6",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.M": {
+        "Damage": "600",
+        "Guard": "High/Air",
+        "Startup": "7",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.H": {
+        "Damage": "900",
+        "Guard": "High/Air",
+        "Startup": "11",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "3 [2]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.U": {
+        "Damage": "800",
+        "Guard": "High/Air",
+        "Startup": "12",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "3 [2]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    }
+  ],
+  "Metera": [
+    {
+      "c.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "9",
+        "On Block": "-1",
+        "On Hit": "+3",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "7",
+        "Active": "3",
+        "Recovery": "12",
+        "On Block": "0",
+        "On Hit": "+4",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.H": {
+        "Damage": "400*3",
+        "Guard": "Mid",
+        "Startup": "11",
+        "Active": "6",
+        "Recovery": "21",
+        "On Block": "-4",
+        "On Hit": "+0",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 1": {
+        "Damage": "300",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 2": {
+        "Damage": "300",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-4",
+        "On Hit": "+0",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.L": {
+        "Damage": "400",
+        "Guard": "Low",
+        "Startup": "8",
+        "Active": "6",
+        "Recovery": "6",
+        "On Block": "+1",
+        "On Hit": "+5",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "10",
+        "Active": "7",
+        "Recovery": "15",
+        "On Block": "-7",
+        "On Hit": "-3",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.H": {
+        "Damage": "800",
+        "Guard": "All",
+        "Startup": "16",
+        "Active": "14",
+        "Recovery": "12",
+        "On Block": "-2",
+        "On Hit": "+2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2L": {
+        "Damage": "400",
+        "Guard": "Low",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "6",
+        "Recovery": "12",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2H": {
+        "Damage": "800",
+        "Guard": "All",
+        "Startup": "11",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-5",
+        "On Hit": "-1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2U": {
+        "Damage": "700",
+        "Guard": "Low",
+        "Startup": "13",
+        "Active": "15",
+        "Recovery": "14",
+        "On Block": "-14",
+        "On Hit": "HKD",
+        "Attribute": "zzz",
+        "Level": "2 [1]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.L": {
+        "Damage": "400",
+        "Guard": "High/Air",
+        "Startup": "6",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.M": {
+        "Damage": "350*2",
+        "Guard": "High/Air",
+        "Startup": "8",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.H": {
+        "Damage": "800",
+        "Guard": "High/Air",
+        "Startup": "13",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "3 [2]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.U": {
+        "Damage": "zzz",
+        "Guard": "zzz",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "zzz",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    }
+  ],
+  "Lowain": [
+    {
+      "c.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "5",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.M": {
+        "Damage": "350,250,150",
+        "Guard": "Mid",
+        "Startup": "7",
+        "Active": "8",
+        "Recovery": "15",
+        "On Block": "-4",
+        "On Hit": "0",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.H": {
+        "Damage": "1100",
+        "Guard": "Mid",
+        "Startup": "10",
+        "Active": "9",
+        "Recovery": "21",
+        "On Block": "-4",
+        "On Hit": "0",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 1": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "9",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 2": {
+        "Damage": "280",
+        "Guard": "Mid",
+        "Startup": "12",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-4",
+        "On Hit": "0",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "15",
+        "On Block": "-5",
+        "On Hit": "-1",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "10",
+        "Active": "2",
+        "Recovery": "19",
+        "On Block": "-6",
+        "On Hit": "-2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.H": {
+        "Damage": "1000",
+        "Guard": "Mid",
+        "Startup": "11",
+        "Active": "6",
+        "Recovery": "18",
+        "On Block": "-7",
+        "On Hit": "-3",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2L": {
+        "Damage": "400",
+        "Guard": "Low",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "5",
+        "Recovery": "15",
+        "On Block": "-5",
+        "On Hit": "-1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2H": {
+        "Damage": "1000",
+        "Guard": "Mid",
+        "Startup": "12",
+        "Active": "4",
+        "Recovery": "24",
+        "On Block": "-11",
+        "On Hit": "-6",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2U": {
+        "Damage": "700",
+        "Guard": "Low",
+        "Startup": "8",
+        "Active": "10",
+        "Recovery": "17",
+        "On Block": "-11",
+        "On Hit": "HKD",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.L": {
+        "Damage": "400",
+        "Guard": "High/Air",
+        "Startup": "6",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.M": {
+        "Damage": "550",
+        "Guard": "High/Air",
+        "Startup": "8",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.H": {
+        "Damage": "800",
+        "Guard": "High/Air",
+        "Startup": "9",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.U": {
+        "Damage": "250xN",
+        "Guard": "High/Air",
+        "Startup": "12",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    }
+  ],
+  "Ferry": [
+    {
+      "f.L": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "3",
+        "Recovery": "15",
+        "On Block": "-7",
+        "On Hit": "-3",
+        "Attribute": "zzz",
+        "Level": "0 [1]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.M": {
+        "Damage": "650",
+        "Guard": "Mid",
+        "Startup": "9",
+        "Active": "5",
+        "Recovery": "19",
+        "On Block": "-9",
+        "On Hit": "-5",
+        "Attribute": "zzz",
+        "Level": "2 [1]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.H": {
+        "Damage": "900",
+        "Guard": "Mid",
+        "Startup": "13",
+        "Active": "8",
+        "Recovery": "23",
+        "On Block": "-14",
+        "On Hit": "-10",
+        "Attribute": "zzz",
+        "Level": "3 [2]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2M": {
+        "Damage": "600",
+        "Guard": "Low",
+        "Startup": "11",
+        "Active": "5",
+        "Recovery": "20",
+        "On Block": "-10",
+        "On Hit": "-6",
+        "Attribute": "zzz",
+        "Level": "2 [1]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2U": {
+        "Damage": "700",
+        "Guard": "Low",
+        "Startup": "9",
+        "Active": "6",
+        "Recovery": "16",
+        "On Block": "-7",
+        "On Hit": "HKD",
+        "Attribute": "zzz",
+        "Level": "2 [1]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.L": {
+        "Damage": "400",
+        "Guard": "High/Air",
+        "Startup": "7",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2 [1]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.M": {
+        "Damage": "600",
+        "Guard": "High/Air",
+        "Startup": "9",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2 [1]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.H": {
+        "Damage": "800",
+        "Guard": "High/Air",
+        "Startup": "10",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "3 [2]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    }
+  ],
+  "Zeta": [
+    {
+      "c.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "5",
+        "Active": "3",
+        "Recovery": "5",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "14",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.H": {
+        "Damage": "1200",
+        "Guard": "Mid",
+        "Startup": "9",
+        "Active": "6",
+        "Recovery": "16",
+        "On Block": "-4",
+        "On Hit": "0",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 1": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "9",
+        "Active": "X",
+        "Recovery": "X",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 2": {
+        "Damage": "280",
+        "Guard": "Mid",
+        "Startup": "13",
+        "Active": "X",
+        "Recovery": "X",
+        "On Block": "-4",
+        "On Hit": "0",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "14",
+        "On Block": "-5",
+        "On Hit": "-1",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "11",
+        "Active": "4",
+        "Recovery": "15",
+        "On Block": "-6",
+        "On Hit": "-2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.H": {
+        "Damage": "1000",
+        "Guard": "Mid",
+        "Startup": "9",
+        "Active": "6",
+        "Recovery": "17",
+        "On Block": "-7",
+        "On Hit": "-3",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2L": {
+        "Damage": "400",
+        "Guard": "Low",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "5",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "9",
+        "Active": "6",
+        "Recovery": "11",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2H": {
+        "Damage": "1000",
+        "Guard": "Mid",
+        "Startup": "11",
+        "Active": "5",
+        "Recovery": "23",
+        "On Block": "-12",
+        "On Hit": "-8",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2U": {
+        "Damage": "300,600",
+        "Guard": "Low",
+        "Startup": "7, 25",
+        "Active": "3.3",
+        "Recovery": "14",
+        "On Block": "-7",
+        "On Hit": "HKD",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.L": {
+        "Damage": "400",
+        "Guard": "High/Air",
+        "Startup": "5",
+        "Active": "Until landing",
+        "Recovery": "X",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.M": {
+        "Damage": "550",
+        "Guard": "High/Air",
+        "Startup": "7",
+        "Active": "6",
+        "Recovery": "X",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.H": {
+        "Damage": "800",
+        "Guard": "High/Air",
+        "Startup": "7",
+        "Active": "9",
+        "Recovery": "X",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.U": {
+        "Damage": "500",
+        "Guard": "High/Air",
+        "Startup": "5",
+        "Active": "Until landing",
+        "Recovery": "X",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2 [1]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    }
+  ],
+  "Vaseraga": [
+    {
+      "c.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "7",
+        "Active": "3",
+        "Recovery": "5",
+        "On Block": "None",
+        "On Hit": "+7",
+        "Attribute": "zzz",
+        "Level": "0 [1]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.M": {
+        "Damage": "800",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "3",
+        "Recovery": "10",
+        "On Block": "None",
+        "On Hit": "+7",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.H": {
+        "Damage": "1500",
+        "Guard": "Mid",
+        "Startup": "14[35]",
+        "Active": "7",
+        "Recovery": "21",
+        "On Block": "None",
+        "On Hit": "-4",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 1": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "None",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 2": {
+        "Damage": "320",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "None",
+        "On Hit": "0",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.L": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "4",
+        "Recovery": "10",
+        "On Block": "None",
+        "On Hit": "+5",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.M": {
+        "Damage": "800",
+        "Guard": "Mid",
+        "Startup": "11",
+        "Active": "6",
+        "Recovery": "16",
+        "On Block": "None",
+        "On Hit": "-1",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.H": {
+        "Damage": "1300",
+        "Guard": "Mid",
+        "Startup": "19[39]",
+        "Active": "6",
+        "Recovery": "30",
+        "On Block": "None",
+        "On Hit": "-11",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "None",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2M": {
+        "Damage": "700",
+        "Guard": "Low",
+        "Startup": "9",
+        "Active": "4",
+        "Recovery": "17",
+        "On Block": "None",
+        "On Hit": "HKD",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2H": {
+        "Damage": "1100",
+        "Guard": "Mid",
+        "Startup": "13[33]",
+        "Active": "6",
+        "Recovery": "26",
+        "On Block": "None",
+        "On Hit": "-13",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "H"
+      }
+    },
+    {
+      "2U": {
+        "Damage": "900",
+        "Guard": "Low",
+        "Startup": "16",
+        "Active": "3",
+        "Recovery": "24",
+        "On Block": "zzz",
+        "On Hit": "HKD",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.L": {
+        "Damage": "400",
+        "Guard": "High/Air",
+        "Startup": "6",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.M": {
+        "Damage": "700",
+        "Guard": "High/Air",
+        "Startup": "14",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "3 [2]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.H": {
+        "Damage": "900",
+        "Guard": "High/Air",
+        "Startup": "13",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "4 [2]",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.U": {
+        "Damage": "800",
+        "Guard": "Mid",
+        "Startup": "27",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    }
+  ],
+  "Beelzebub": [
+    {
+      "c.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "5",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "7",
+        "Active": "3",
+        "Recovery": "12",
+        "On Block": "0",
+        "On Hit": "+4",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.H": {
+        "Damage": "800,200,200",
+        "Guard": "Mid",
+        "Startup": "10",
+        "Active": "6",
+        "Recovery": "19",
+        "On Block": "-2",
+        "On Hit": "+2",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 1": {
+        "Damage": "200,150",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "16",
+        "On Block": "-2",
+        "On Hit": "+2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 2": {
+        "Damage": "280",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "20",
+        "On Block": "-4",
+        "On Hit": "0",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "15",
+        "On Block": "-5",
+        "On Hit": "-1",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "4",
+        "Recovery": "17",
+        "On Block": "-6",
+        "On Hit": "-2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.H": {
+        "Damage": "1000",
+        "Guard": "Mid",
+        "Startup": "10",
+        "Active": "9",
+        "Recovery": "24",
+        "On Block": "-16",
+        "On Hit": "-12",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2L": {
+        "Damage": "400",
+        "Guard": "Low",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "7",
+        "Active": "6",
+        "Recovery": "14",
+        "On Block": "-5",
+        "On Hit": "-1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2H": {
+        "Damage": "1000",
+        "Guard": "Mid",
+        "Startup": "12",
+        "Active": "6",
+        "Recovery": "28",
+        "On Block": "-16",
+        "On Hit": "-12",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2U": {
+        "Damage": "zzz",
+        "Guard": "Low",
+        "Startup": "9",
+        "Active": "6",
+        "Recovery": "18",
+        "On Block": "-9",
+        "On Hit": "HKD",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.L": {
+        "Damage": "400",
+        "Guard": "High/Air",
+        "Startup": "5",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.M": {
+        "Damage": "600",
+        "Guard": "High/Air",
+        "Startup": "7",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.H": {
+        "Damage": "400,200,200",
+        "Guard": "High/Air [All]",
+        "Startup": "9",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.U": {
+        "Damage": "800",
+        "Guard": "High/Air",
+        "Startup": "11",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    }
+  ],
+  "Narmaya": [
+    {
+      "5L": {
+        "Damage": "300",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "9",
+        "On Block": "-1",
+        "On Hit": "+3",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.M": {
+        "Damage": "650",
+        "Guard": "Mid",
+        "Startup": "7",
+        "Active": "3",
+        "Recovery": "14",
+        "On Block": "-2",
+        "On Hit": "+2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.H": {
+        "Damage": "450, 350 = 800",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "2, 3",
+        "Recovery": "23",
+        "On Block": "-7",
+        "On Hit": "-3",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 1": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "9",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-3",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 2": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "12",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-4",
+        "On Hit": "0",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.M": {
+        "Damage": "600",
+        "Guard": "Mid",
+        "Startup": "9",
+        "Active": "4",
+        "Recovery": "17",
+        "On Block": "-6",
+        "On Hit": "-2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.H": {
+        "Damage": "900",
+        "Guard": "Mid",
+        "Startup": "10",
+        "Active": "6",
+        "Recovery": "20",
+        "On Block": "-9",
+        "On Hit": "-5",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2L": {
+        "Damage": "350",
+        "Guard": "Low",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2M": {
+        "Damage": "600",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "4",
+        "Recovery": "14",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2H": {
+        "Damage": "900",
+        "Guard": "Mid",
+        "Startup": "11",
+        "Active": "3",
+        "Recovery": "25",
+        "On Block": "-11",
+        "On Hit": "-7",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2U": {
+        "Damage": "700",
+        "Guard": "Low",
+        "Startup": "8",
+        "Active": "6",
+        "Recovery": "20",
+        "On Block": "-11",
+        "On Hit": "HKD",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.L": {
+        "Damage": "400",
+        "Guard": "High/Air",
+        "Startup": "5",
+        "Active": "Until Landing",
+        "Recovery": "Until Landing",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.M": {
+        "Damage": "550",
+        "Guard": "High/Air",
+        "Startup": "6",
+        "Active": "6",
+        "Recovery": "Until Landing",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.H": {
+        "Damage": "700",
+        "Guard": "High/Air",
+        "Startup": "9",
+        "Active": "6",
+        "Recovery": "Until Landing",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.U": {
+        "Damage": "800",
+        "Guard": "High/Air",
+        "Startup": "10",
+        "Active": "6",
+        "Recovery": "Until Landing",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    }
+  ],
+  "Djeeta": [
+    {
+      "c.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "5",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "12",
+        "On Block": "0",
+        "On Hit": "+4",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "c.H": {
+        "Damage": "1200",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "4",
+        "Recovery": "18",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "4",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 1": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "Auto Combo 2": {
+        "Damage": "350",
+        "Guard": "Mid",
+        "Startup": "zzz",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "-4",
+        "On Hit": "0",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.L": {
+        "Damage": "400",
+        "Guard": "Mid",
+        "Startup": "6",
+        "Active": "5",
+        "Recovery": "11",
+        "On Block": "-3",
+        "On Hit": "+1",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "8",
+        "Active": "3",
+        "Recovery": "18",
+        "On Block": "-6",
+        "On Hit": "-2",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "f.H": {
+        "Damage": "1000",
+        "Guard": "Mid",
+        "Startup": "10",
+        "Active": "5",
+        "Recovery": "21",
+        "On Block": "-9",
+        "On Hit": "-5",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2L": {
+        "Damage": "400",
+        "Guard": "Low",
+        "Startup": "6",
+        "Active": "3",
+        "Recovery": "6",
+        "On Block": "+2",
+        "On Hit": "+6",
+        "Attribute": "zzz",
+        "Level": "0",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2M": {
+        "Damage": "700",
+        "Guard": "Mid",
+        "Startup": "7",
+        "Active": "6",
+        "Recovery": "10",
+        "On Block": "-1",
+        "On Hit": "+3",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2H": {
+        "Damage": "1000",
+        "Guard": "Mid",
+        "Startup": "10",
+        "Active": "6",
+        "Recovery": "24",
+        "On Block": "-13",
+        "On Hit": "-9",
+        "Attribute": "zzz",
+        "Level": "3",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "2U": {
+        "Damage": "700",
+        "Guard": "Low",
+        "Startup": "7",
+        "Active": "6",
+        "Recovery": "21",
+        "On Block": "-12",
+        "On Hit": "HKD",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.L": {
+        "Damage": "400",
+        "Guard": "High/Air",
+        "Startup": "5",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.M": {
+        "Damage": "600",
+        "Guard": "High/Air",
+        "Startup": "6",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "1",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.H": {
+        "Damage": "800",
+        "Guard": "High/Air",
+        "Startup": "7",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    },
+    {
+      "j.U": {
+        "Damage": "700",
+        "Guard": "High/Air",
+        "Startup": "12",
+        "Active": "zzz",
+        "Recovery": "zzz",
+        "On Block": "zzz",
+        "On Hit": "zzz",
+        "Attribute": "zzz",
+        "Level": "2",
+        "Blockstun": "zzz",
+        "Hitstun": "zzz",
+        "Untech": "zzz",
+        "Hitstop": "zzz",
+        "Invul": "zzz"
+      }
+    }
+  ]
+}

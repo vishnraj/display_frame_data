@@ -111,7 +111,7 @@ export default {
   methods: {
     getFrameDataJSON() {
       this.tableData = []
-      this.frameDataJSON = require('../../../character_frame_data.json')
+      this.frameDataJSON = require('../../character_frame_data.json')
       
       for (let [k, v] of Object.entries(this.frameDataJSON)) {
         for (var i in v) {
