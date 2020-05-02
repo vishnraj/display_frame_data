@@ -9,6 +9,9 @@
     </b-row>
     <b-row>
       <b-col cols=2>
+        <b-form-input v-model="filterCharacterOn" placeholder="Filter Out Character"></b-form-input>
+      </b-col>
+      <b-col cols=2>
         <b-form-input v-model="filterAttackOn" placeholder="Filter On Attack"></b-form-input>
       </b-col>
       <b-col cols=2>
@@ -21,7 +24,7 @@
                  :items="items" 
                  :fields="fields"
                  :filter="filters"
-                 :filter-function="filterAttack">
+                 :filter-function="filterFunc">
         </b-table>
       </b-col>
     </b-row>
@@ -38,7 +41,7 @@ export default {
           sortable: true
         },
         {
-          key: 'Version',
+          key: 'Attack',
           sortable: true
         },
         {
@@ -74,7 +77,8 @@ export default {
       items: [],
       filters: {
         filterAttackOn: '',
-        filterAttackOut: ''
+        filterAttackOut: '',
+        filterCharacterOn: ''
       }
     }
   },
@@ -106,6 +110,14 @@ export default {
       set(newVal){
         return this.filters["filterAttackOut"] = newVal;
       }
+    },
+    filterCharacterOn: {
+      get(){
+        return this.filters["filterCharacterOn"]
+      },
+      set(newVal){
+        return this.filters["filterCharacterOn"] = newVal;
+      }
     }
   },
   methods: {
@@ -118,7 +130,7 @@ export default {
           for (let [j, m] of Object.entries(v[i])) {
             var c = {}
             c['Character'] = k
-            c['Version'] = j
+            c['Attack'] = j
             for (let [l, n] of Object.entries(m)) {  
               c[l] = n
             }
@@ -127,10 +139,12 @@ export default {
         }
       }
     },
-    filterAttack(row, filter) {
-      if (filter["filterAttackOn"].length > 0 && !row.Version.includes(filter["filterAttackOn"])) {
+    filterFunc(row, filter) {
+      if (filter["filterCharacterOn"].length > 0 && !row.Character.includes(filter["filterCharacterOn"])) {
         return false
-      } else if (filter["filterAttackOut"].length > 0 && row.Version.includes(filter["filterAttackOut"])) {
+      } else if (filter["filterAttackOn"].length > 0 && !row.Attack.includes(filter["filterAttackOn"])) {
+        return false
+      } else if (filter["filterAttackOut"].length > 0 && row.Attack.includes(filter["filterAttackOut"])) {
         return false
       }
 
