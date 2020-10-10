@@ -56,7 +56,7 @@ def get_character_frame_data_table(character_name):
     character_to_frame_data[character_name].append(c)
 
 if __name__ == '__main__':
-  parser = argparse.ArgumentParser()
+  parser = argparse.ArgumentParser('GBVS Frame Data Scraper')
   parser.add_argument('-o', '--outfile', help='json file to write data out to', type=str)
   args = parser.parse_args()
 
