@@ -1,11 +1,9 @@
-import requests, sys, string, fileinput, json
+import requests, sys, string, fileinput, json, argparse
 from lxml import html
 from bs4 import BeautifulSoup
 
 domain_name = 'https://www.dustloop.com'
 gbvs_wiki_path = '/wiki/?title=GBVS/'
-
-filename = 'character_frame_data.json'
 
 current_roster = ['Gran', 'Katalina', 'Charlotta', 'Lancelot', 'Percival', 'Ladiva', 'Metera', 'Lowain', 'Ferry', 'Zeta', 'Vaseraga', 'Beelzebub', 'Narmaya', 'Djeeta']
 
@@ -57,9 +55,15 @@ def get_character_frame_data_table(character_name):
       
     character_to_frame_data[character_name].append(c)
 
-for c in current_roster:
-  get_character_frame_data_table(c)
+if __name__ == '__main__':
+  parser = argparse.ArgumentParser()
+  parser.add_argument('-o', '--outfile', help='json file to write data out to', type=str)
+  args = parser.parse_args()
 
-print('Writing to ' + filename)
-with open(filename, 'w') as file:
+  for c in current_roster:
+    get_character_frame_data_table(c)
+
+  filename = args.outfile
+  print('Writing to ' + filename)
+  with open(filename, 'w') as file:
     json.dump(character_to_frame_data, file, indent=2)
